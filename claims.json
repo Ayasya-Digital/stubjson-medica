@@ -1,0 +1,177 @@
+{
+  "count": 61,
+  "next": 2,
+  "previous": 0,
+  "results": [
+    {
+      "id": "1000017692290",
+      "claim_number": "1000017692290",
+      "claim_status": "Approved",
+      "service_date": "2024-05-24",
+      "patient_responsibility_amount": 0.00,
+      "patient": {
+        "name": {
+          "first_name": "Kevin",
+          "last_name": "Punsky"
+        }
+      },
+      "facility_information": {
+        "facility_name": "MAYO CLINIC JACKSONVILLE"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "1000017766950",
+      "claim_number": "1000017766950",
+      "claim_status": "Approved",
+      "service_date": "2024-05-24",
+      "patient_responsibility_amount": 608.08,
+      "patient": {
+        "name": {
+          "first_name": "Kevin",
+          "last_name": "Punsky"
+        }
+      },
+      "facility_information": {
+        "facility_name": "MAYO CLINIC JACKSONVILLE"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "1000017766460",
+      "claim_number": "1000017766460",
+      "claim_status": "Approved",
+      "service_date": "2024-05-24",
+      "patient_responsibility_amount": 0.00,
+      "patient": {
+        "name": {
+          "first_name": "Kevin",
+          "last_name": "Punsky"
+        }
+      },
+      "facility_information": {
+        "facility_name": "MAYO CLINIC JACKSONVILLE"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "536741252835293644",
+      "claim_number": "536741252835293644",
+      "claim_status": "Approved",
+      "service_date": "2024-05-22",
+      "patient_responsibility_amount": 12.28,
+      "patient": {
+        "name": {
+          "first_name": "Reagan",
+          "last_name": "Punsky"
+        }
+      },
+      "facility_information": {
+        "facility_name": "MAYO PHARMACY"
+      },
+      "claim_type": "rx"
+    },
+    {
+      "id": "465320786674293652",
+      "claim_number": "465320786674293652",
+      "claim_status": "Approved",
+      "service_date": "2024-05-15",
+      "patient_responsibility_amount": 30.00,
+      "patient": {
+        "name": {
+          "first_name": "Reagan",
+          "last_name": "Punsky"
+        }
+      },
+      "facility_information": {
+        "facility_name": "MAYO PHARMACY"
+      },
+      "claim_type": "rx"
+    },
+    {
+      "id": "1000017401930",
+      "claim_number": "1000017401930",
+      "claim_status": "Approved",
+      "service_date": "2024-04-23",
+      "patient_responsibility_amount": 95.76,
+      "patient": {
+        "name": {
+          "first_name": "Reagan",
+          "last_name": "Punsky"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Confidential data"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "1000017237925",
+      "claim_number": "1000017237925",
+      "claim_status": "Approved",
+      "service_date": "2024-04-17",
+      "patient_responsibility_amount": 560.40,
+      "patient": {
+        "name": {
+          "first_name": "Jackson",
+          "last_name": "Punsky"
+        }
+      },
+      "facility_information": {
+        "facility_name": "MAYO CLINIC JACKSONVILLE"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "388626134732293506",
+      "claim_number": "388626134732293506",
+      "claim_status": "Approved",
+      "service_date": "2024-04-17",
+      "patient_responsibility_amount": 10.00,
+      "patient": {
+        "name": {
+          "first_name": "Jackson",
+          "last_name": "Punsky"
+        }
+      },
+      "facility_information": {
+        "facility_name": "WALGREENS #06385"
+      },
+      "claim_type": "rx"
+    },
+    {
+      "id": "584763293732293376",
+      "claim_number": "584763293732293376",
+      "claim_status": "Approved",
+      "service_date": "2024-04-17",
+      "patient_responsibility_amount": 10.00,
+      "patient": {
+        "name": {
+          "first_name": "Jackson",
+          "last_name": "Punsky"
+        }
+      },
+      "facility_information": {
+        "facility_name": "WALGREENS #06385"
+      },
+      "claim_type": "rx"
+    },
+    {
+      "id": "142217234732293522",
+      "claim_number": "142217234732293522",
+      "claim_status": "Approved",
+      "service_date": "2024-04-17",
+      "patient_responsibility_amount": 10.00,
+      "patient": {
+        "name": {
+          "first_name": "Jackson",
+          "last_name": "Punsky"
+        }
+      },
+      "facility_information": {
+        "facility_name": "WALGREENS #06385"
+      },
+      "claim_type": "rx"
+    }
+  ]
+}

@@ -12,7 +12,24 @@
       "paid_amount": 24,
       "drug_quantity": "",
       "drug_name": "",
-      "patient_responsibility_amount": 0,
+      "patient_responsibility_amount": 4,
+      "providers": {
+        "name": {
+          "first_name": "JEFFREY",
+          "last_name": "DLOTT"
+        }
+      },
+      "status": "ADJUDICATED"
+    }, {
+      "id": "1000017766461",
+      "line_number": "2",
+      "type_of_service_description": "TEST COLLECTION",
+      "billed_amount": 140,
+      "allowed_amount": 124,
+      "paid_amount": 110,
+      "drug_quantity": "",
+      "drug_name": "",
+      "patient_responsibility_amount": 16,
       "providers": {
         "name": {
           "first_name": "JEFFREY",

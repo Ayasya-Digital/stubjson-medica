@@ -1,1 +1,25 @@
-
+{
+  "count": 1,
+  "next": 2,
+  "previous": 0,
+  "results": [
+    {
+      "id": "1000017766460",
+      "line_number": "1",
+      "type_of_service_description": "BLOOD COLLECTION",
+      "billed_amount": 40,
+      "allowed_amount": 24,
+      "paid_amount": 24,
+      "drug_quantity": "",
+      "drug_name": "",
+      "patient_responsibility_amount": 0,
+      "providers": {
+        "name": {
+          "first_name": "JEFFREY",
+          "last_name": "DLOTT"
+        }
+      },
+      "status": "ADJUDICATED"
+    }
+  ]
+}
